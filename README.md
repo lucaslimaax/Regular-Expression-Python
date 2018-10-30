@@ -7,3 +7,4 @@ Utilização de expressão regular para validar formatos de dados: cpf, rg e dat
 * Matplotlib
 
 Disponíveis para download em: [Anaconda](https://www.anaconda.com/distribution/)
+
