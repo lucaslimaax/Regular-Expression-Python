@@ -5,4 +5,4 @@ Utilização de expressão regular para validar formatos de dados: cpf, rg e dat
 * Pandas
 * Jupyter Notebook
 * Matplotlib
-Disponíveis para download em: (https://www.anaconda.com/distribution/ "Anaconda")
+Disponíveis para download em: [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
