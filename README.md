@@ -8,6 +8,7 @@ Utilização de [expressão regular](https://pt.wikipedia.org/wiki/Express%C3%A3
 * Python3
 
 Disponíveis para download em: [Anaconda](https://www.anaconda.com/distribution/)
+
 O uso do Matplotlib pode ser econtrado em: [Matplotlib](https://matplotlib.org/)
 
 ## Licença
